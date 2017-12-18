@@ -1,0 +1,2 @@
+Understood how to pass callback function and parameters using event listeners in jQuery. Simple anonymous function maintain the event object as well as enable passing a callback function in the method being called. 
+Also learnt the data string being passed in ajax needs to be stringified for translation.
